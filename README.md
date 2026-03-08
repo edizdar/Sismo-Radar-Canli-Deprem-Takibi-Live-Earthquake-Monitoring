@@ -23,5 +23,3 @@
 - Region selection
 - Background operation support
 - Turkish and English interface
-
-- 
