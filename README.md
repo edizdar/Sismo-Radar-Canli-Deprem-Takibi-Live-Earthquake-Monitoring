@@ -5,6 +5,13 @@
 
 **EN:** Sismo Radar is a desktop application that helps you monitor earthquakes in real time in Turkey and around the world. It makes earthquake tracking easier and more practical with features such as desktop notifications, voice alerts, minimum magnitude filtering, and region selection.
 
+## Daha Fazla Bilgi | Learn More
+
+**TR:** Ayrıntılı kullanım bilgileri ve rehberler için Wiki sayfasını ziyaret edin.  
+**EN:** Visit the Wiki page for detailed guides and usage information.
+
+[GitHub Wiki](../../wiki)
+
 ## Özellikler | Features
 
 **TR:**
