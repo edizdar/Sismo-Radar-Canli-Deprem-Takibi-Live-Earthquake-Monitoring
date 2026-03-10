@@ -42,6 +42,8 @@ The software does not request any special permissions, can also be used as a por
 
   ## İndir | Download
 
+  Android https://github.com/edizdar/sismo-radar/releases/tag/android
+
 ## İndir | Download
 
 **TR:** Windows kurulum dosyasını doğrudan buradan indirebilirsiniz:  
